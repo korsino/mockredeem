@@ -1,21 +1,20 @@
 {
   "httpStatus":200,
   "description":"SUCCESS",
-  "pointRedeemHistoryArr":
-  [
+  "pointRedeemHistoryArr":[
     {
-      "brandNameTH":"เอไอเอส พอยท์",
-      "brandNameEN":"AIS Points",
-      "defaultImg":"https://profile.line-scdn.net/0hcbcNYIfMPE1eNyq2msZDGmJyMiApGToFJlFyK3xgZ3QkVCkYZVR7K3I0Ny10VXkSagFyK383ZC5w",
-      "msisdn":"0947897766",
-      "points":"50",
-     },
-     {
-      "brandNameTH":"แลกอุ่นใจคอลเลคชั่น",
-      "brandNameEN":"AIS Points",
-      "defaultImg":"https://hwc-statics.ais.th/aunjai/images/aunjai_evo_66body_mb.png",
-      "msisdn":"0947897766",
-      "points":"135",
-      },
+    "brandNameTH":"เอไอเอส พอยท์",
+    "descTh":"Case iPhone 6s (Blue)",
+    "defaultImg":"https://assets.beartai.com/uploads/2022/02/ais-leak.jpg",
+    "msisdn":"0947897766",
+    "points":"400"
+    },
+    {
+    "brandNameTH":"แลกอุ่นใจคอลเลคชั่น",
+    "descTh":"ถุงผ้า AIS 5G สีดำ (พับเก็บได้)",
+    "defaultImg":"https://hwc-statics.ais.th/aunjai/images/aunjai_evo_66body_mb.png",
+    "msisdn":"0947897766",
+    "points":"150"
+    }
   ]
 }
