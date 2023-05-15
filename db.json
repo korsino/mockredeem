@@ -1,31 +1,27 @@
 {
-  "posts": [
+  "httpStatus":200,
+  "pointRedeemHistoryArr": [
     {
       "id": 1,
-      "title": "Post 1"
+      "brandNameTH":"เอไอเอส พอยท์",
+      "descTh":"Case iPhone 6s (Blue)",
+      "defaultImg":"https://assets.beartai.com/uploads/2022/02/ais-leak.jpg",
+      "points":"400
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "brandNameTH":"แลกอุ่นใจคอลเลคชั่น",
+      "descTh":"ถุงผ้า AIS 5G สีดำ (พับเก็บได้)",
+      "defaultImg":"https://hwc-statics.ais.th/aunjai/images/aunjai_evo_66body_mb.png",
+      "points":"150"
+
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "brandNameTH":"เอไอเอส พอยท์",
+      "descTh":"Grab Food",
+      "defaultImg":"https://play-lh.googleusercontent.com/TAtTgx03qOnXVwP0-Wz3aEnH7IV686X3ZSupoRfIjma-4wCZjo4eKFKimpdqe1QIHQ",
+      "points":"60"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
