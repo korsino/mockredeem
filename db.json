@@ -6,44 +6,16 @@
     {
       "brandNameTH":"เอไอเอส พอยท์",
       "brandNameEN":"AIS Points",
-      "barcodeType":"0",
-      "descEn":"",
-      "descTh":"ค่าขนส่ง",
-      "defaultImg":"15032019_112922_7cdbe5.png",
+      "defaultImg":"https://profile.line-scdn.net/0hcbcNYIfMPE1eNyq2msZDGmJyMiApGToFJlFyK3xgZ3QkVCkYZVR7K3I0Ny10VXkSagFyK383ZC5w",
       "msisdn":"0947897766",
       "points":"50",
-      "tranDate":"2023-02-20 10:26:50",
-      "msgBarcode":"XX80895753",
-      "msgReply":"XX80895753",
-      "extUrl":"",
-      "categoryId":"10",
-      "categoryEn":"Food",
-      "categoryTh":"อาหาร",
-      "customerOperator":"-",
-      "tranTypeDesc":"redeem",
-      "pointTrantypeId":"51",
-      "pointPartner":400
      },
      {
-      "brandNameTH":"เอไอเอส พอยท์",
+      "brandNameTH":"แลกอุ่นใจคอลเลคชั่น",
       "brandNameEN":"AIS Points",
-      "barcodeType":"0",
-      "descEn":"Case iPhone 6s (Blue)",
-      "descTh":"Case iPhone 6s (Blue)",
-      "defaultImg":"27022020_140704_1a1172e.jpeg",
+      "defaultImg":"https://hwc-statics.ais.th/aunjai/images/aunjai_evo_66body_mb.png",
       "msisdn":"0947897766",
-      "points":"50",
-      "tranDate":"2023-02-20 10:26:48",
-      "msgBarcode":"137189",
-      "msgReply":"137189_20Feb10:26 ใช้50พอยท์แลกCase iPhone 6s (Blue) คงเหลือ 5400พอยท์",
-      "extUrl":"",
-      "categoryId":"505",
-      "categoryEn":"Premium Delivery",
-      "categoryTh":"พรีเมี่ยม Delivery",
-      "customerOperator":"-",
-      "tranTypeDesc":"redeem",
-      "pointTrantypeId":"51",
-      "pointPartner":400
+      "points":"135"
       }
   ]
 }
